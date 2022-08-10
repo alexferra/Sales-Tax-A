@@ -1,0 +1,21 @@
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\Sales Tax A.exe
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\Sales Tax A.deps.json
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\Sales Tax A.runtimeconfig.json
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\Sales Tax A.runtimeconfig.dev.json
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\Sales Tax A.dll
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\Sales Tax A.pdb
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.csproj.AssemblyReference.cache
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.AssemblyInfoInputs.cache
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.AssemblyInfo.cs
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.csproj.CoreCompileInputs.cache
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.csproj.CopyComplete
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.dll
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.pdb
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\obj\Debug\netcoreapp3.1\Sales Tax A.genruntimeconfig.cache
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\Alefe\source\repos\Sales Tax A\Sales Tax A\bin\Debug\netcoreapp3.1\xunit.core.dll

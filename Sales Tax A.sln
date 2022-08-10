@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales Tax A", "Sales Tax A\Sales Tax A.csproj", "{2F01C776-6F91-495A-A642-F69CCA1F30B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectTaxRates", "TestProjectTaxRates\TestProjectTaxRates.csproj", "{41927883-AE38-4357-8249-E65043AA598B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F01C776-6F91-495A-A642-F69CCA1F30B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F01C776-6F91-495A-A642-F69CCA1F30B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F01C776-6F91-495A-A642-F69CCA1F30B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F01C776-6F91-495A-A642-F69CCA1F30B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41927883-AE38-4357-8249-E65043AA598B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41927883-AE38-4357-8249-E65043AA598B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41927883-AE38-4357-8249-E65043AA598B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41927883-AE38-4357-8249-E65043AA598B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A90D414F-E3EE-4B3C-AA33-0FDAB1BACD24}
+	EndGlobalSection
+EndGlobal
